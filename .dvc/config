@@ -1,0 +1,4 @@
+[core]
+    remote = s3demote
+['remote "s3demote"']
+    url = s3://churn-model-demo-prasu-bucket
